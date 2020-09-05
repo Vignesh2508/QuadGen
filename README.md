@@ -8,3 +8,7 @@ This type of quadtree based method is used for making CFD grids from the geometr
 # The QuadGen application for generating quadtrees to detect the points
 
 ![](quadgen.PNG)
+
+# Airfoil points feeded into QuadGen
+
+![](airfoil_quadgen.PNG)
